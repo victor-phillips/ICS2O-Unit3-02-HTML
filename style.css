@@ -1,0 +1,25 @@
+.text {
+background-color: Gray;
+color:blue;
+width: 300px;
+border: 10px solid Aqua;
+padding: 10px;
+margin: 10px;
+}
+
+.image {
+background-color: black;
+width: 300px;
+border: 10px groove #00cc00;
+padding: 10px;
+margin: 10px;
+}
+
+.table {
+background-color: lightseagreen;
+width: 300px;
+color: blueviolet;
+border: 10px outset cyan;
+padding: 10px;
+margin: 10px;
+}
