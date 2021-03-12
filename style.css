@@ -1,6 +1,6 @@
 .text {
   background-color: gray;
-  color:blue;
+  color: blue;
   width: 300px;
   border: 10px solid aqua;
   padding: 10px;
@@ -10,7 +10,7 @@
 .image {
   background-color: black;
   width: 300px;
-  border: 10px groove #00cc00;
+  border: 10px groove #0c0;
   padding: 10px;
   margin: 10px;
 }
